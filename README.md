@@ -45,8 +45,8 @@ aekank = {
 
 `LangGraph` `LangChain` `LLM Reasoning` `Python` `Docker` `CI/CD`
 
-<a href="https://mathenza.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
-<a href="https://github.com/aekankpatel/Mathenza"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://mathenza.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square" alt="Live Demo"/></a>
+<a href="https://github.com/aekankpatel/Mathenza"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -56,8 +56,8 @@ aekank = {
 
 `LlamaIndex` `BGE Embeddings` `Groq` `Streamlit`
 
-<a href="https://huggingface.co/spaces/aekankpatel/finrag"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
-<a href="https://github.com/aekankpatel/finrag"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://huggingface.co/spaces/aekankpatel/finrag"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Live Demo"/></a>
+<a href="https://github.com/aekankpatel/finrag"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 </tr>
@@ -69,8 +69,8 @@ aekank = {
 
 `LangGraph` `LangChain` `MCP` `LLMs` `SQL` `Docker` `CI/CD`
 
-<a href="https://queryra.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
-<a href="https://github.com/aekankpatel/queryra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://queryra.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square" alt="Live Demo"/></a>
+<a href="https://github.com/aekankpatel/queryra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -80,8 +80,8 @@ aekank = {
 
 `XGBoost` `Ollama` `Flask` `React` `PaySim`
 
-<a href="https://fraud-gen.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
-<a href="https://github.com/aekankpatel/Fraud_Gen"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://fraud-gen.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square" alt="Live Demo"/></a>
+<a href="https://github.com/aekankpatel/Fraud_Gen"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 </tr>
@@ -93,8 +93,8 @@ aekank = {
 
 `AG2` `FastAPI` `React` `Vite`
 
-<a href="https://nlip-sentinel.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
-<a href="https://github.com/aekankpatel/nlip-sentinel"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://nlip-sentinel.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square" alt="Live Demo"/></a>
+<a href="https://github.com/aekankpatel/nlip-sentinel"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -104,8 +104,8 @@ aekank = {
 
 `pandas` `Plotly` `Streamlit` `Groq`
 
-<a href="https://huggingface.co/spaces/aekankpatel/insightforgeai"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
-<a href="https://github.com/aekankpatel/insightforgeai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://huggingface.co/spaces/aekankpatel/insightforgeai"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Live Demo"/></a>
+<a href="https://github.com/aekankpatel/insightforgeai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ aekank = {
 
 `Next.js` `Prisma` `Groq` `Tailwind` `XeLaTeX`
 
-<a href="https://github.com/aekankpatel/resumeai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/aekankpatel/resumeai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="middle" align="center">
@@ -125,7 +125,7 @@ aekank = {
 ### 🧭 Want to see more?
 Deep learning, reinforcement learning, A/B testing, healthcare analytics and more.
 
-<a href="https://github.com/aekankpatel?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories_→-0f2027?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/aekankpatel?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories_→-0f2027?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
 
 </td>
 </tr>
@@ -137,68 +137,68 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 
 <table>
 <tr><td><b>🤖 AI / LLM & MLOps</b></td><td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-6B4FBB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AG2-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/MCP-6B4FBB?style=flat-square" alt="MCP"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/AG2-0EA5E9?style=flat-square" alt="AG2"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
 </td></tr>
 <tr><td><b>🧠 ML / DL Frameworks</b></td><td>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/>
 </td></tr>
 <tr><td><b>🧪 ML / AI Methods</b></td><td>
-<img src="https://img.shields.io/badge/ETL_Pipelines-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/CNNs-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transfer_Learning-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gradient_Boosting-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Random_Forest-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ensemble_Models-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Anomaly_Detection-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/A%2FB_Testing-1E293B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bayesian_Inference-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-1E293B?style=flat-square" alt="ETL Pipelines"/>
+<img src="https://img.shields.io/badge/Deep_Learning-1E293B?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/CNNs-1E293B?style=flat-square" alt="CNNs"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-1E293B?style=flat-square" alt="Transfer Learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-1E293B?style=flat-square" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-1E293B?style=flat-square" alt="Reinforcement Learning"/>
+<img src="https://img.shields.io/badge/Gradient_Boosting-1E293B?style=flat-square" alt="Gradient Boosting"/>
+<img src="https://img.shields.io/badge/Random_Forest-1E293B?style=flat-square" alt="Random Forest"/>
+<img src="https://img.shields.io/badge/Ensemble_Models-1E293B?style=flat-square" alt="Ensemble Models"/>
+<img src="https://img.shields.io/badge/Anomaly_Detection-1E293B?style=flat-square" alt="Anomaly Detection"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-1E293B?style=flat-square" alt="A/B Testing"/>
+<img src="https://img.shields.io/badge/Bayesian_Inference-1E293B?style=flat-square" alt="Bayesian Inference"/>
 </td></tr>
 <tr><td><b>📊 Data & Analytics</b></td><td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 </td></tr>
 <tr><td><b>⚙️ Apps & APIs</b></td><td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 </td></tr>
 <tr><td><b>☁️ Cloud & Dev Tools</b></td><td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 </td></tr>
 </table>
 
@@ -221,8 +221,8 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 
 ### 💬 Hiring for Data Science or ML? Let's talk.
 
-<a href="mailto:aekankpatel@gmail.com"><img src="https://img.shields.io/badge/aekankpatel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://aekankpatel.com/assets/Aekank_Patel_Resume-DbaqX2yA.pdf"><img src="https://img.shields.io/badge/Grab_my_resume-0EA5E9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cGF0aCBkPSJNMTQgMnY2aDZNOCAxM2g4TTggMTdoOE04IDloMiIvPjwvc3ZnPg%3D%3D"/></a>
+<a href="mailto:aekankpatel@gmail.com"><img src="https://img.shields.io/badge/aekankpatel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="aekankpatel@gmail.com"/></a>
+<a href="https://aekankpatel.com/assets/Aekank_Patel_Resume-DbaqX2yA.pdf"><img src="https://img.shields.io/badge/Grab_my_resume-0EA5E9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cGF0aCBkPSJNMTQgMnY2aDZNOCAxM2g4TTggMTdoOE04IDloMiIvPjwvc3ZnPg%3D%3D" alt="Grab my resume"/></a>
 
 </div>
 
