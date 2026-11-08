@@ -155,7 +155,7 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
 </td></tr>
-<tr><td><b>🧪 Methods</b></td><td>
+<tr><td><b>🧪 ML / AI Methods</b></td><td>
 <img src="https://img.shields.io/badge/ETL_Pipelines-1E293B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep_Learning-1E293B?style=flat-square"/>
 <img src="https://img.shields.io/badge/CNNs-1E293B?style=flat-square"/>
@@ -192,7 +192,7 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </td></tr>
-<tr><td><b>☁️ Cloud & Tools</b></td><td>
+<tr><td><b>☁️ Cloud & Dev Tools</b></td><td>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
