@@ -40,27 +40,15 @@ aekank = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ NLIP Sentinel
-**A bodyguard for AI agents.** Sits inside AG2 multi-agent workflows, checks every message, blocks unsafe tool calls, enforces role permissions, asks for human approval on risky actions, and logs everything.
+### 🧮 Mathenza
+**A math solver that double-checks itself.** Agentic solver with step-by-step solutions, independent verification and error recovery using real computational tools.
 
-`AG2` `FastAPI` `React` `Vite`
+`LangGraph` `LLM Reasoning` `Python`
 
-<a href="https://nlip-sentinel.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
-<a href="https://github.com/aekankpatel/nlip-sentinel"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 DataBeacon
-**An AI data analyst that checks its own work.** Agentic analytics platform that writes and runs SQL on its own, runs statistical analysis, verifies its evidence, and produces charts and reports.
-
-`LangGraph` `MCP` `LLMs` `SQL`
-
-<a href="https://github.com/aekankpatel/databeacon"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://mathenza.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
+<a href="https://github.com/aekankpatel/Mathenza"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 FinRAG
@@ -70,6 +58,19 @@ aekank = {
 
 <a href="https://huggingface.co/spaces/aekankpatel/finrag"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
 <a href="https://github.com/aekankpatel/finrag"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Queryra
+**An AI data analyst that checks its own work.** Agentic analytics platform that writes and runs SQL on its own, runs statistical analysis, verifies its evidence, and produces charts and reports.
+
+`LangGraph` `MCP` `LLMs` `SQL`
+
+<a href="https://queryra.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
+<a href="https://github.com/aekankpatel/queryra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -87,41 +88,48 @@ aekank = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 Mathenza
-**A math solver that double-checks itself.** Agentic solver with step-by-step solutions, independent verification and error recovery using real computational tools.
+### 🛡️ NLIP Sentinel
+**A bodyguard for AI agents.** Sits inside AG2 multi-agent workflows, checks every message, blocks unsafe tool calls, enforces role permissions, asks for human approval on risky actions, and logs everything.
 
-`LangGraph` `LLM Reasoning` `Python`
+`AG2` `FastAPI` `React` `Vite`
 
-<a href="https://mathenza.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
-<a href="https://github.com/aekankpatel/Mathenza"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://nlip-sentinel.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
+<a href="https://github.com/aekankpatel/nlip-sentinel"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 RL Stock Trader
-**AI agents that learned to trade.** DQN and PPO agents trained on SPY with technical indicators, benchmarked against classic strategies on real financial metrics.
+### 🔬 InsightForge AI
+**Instant data exploration.** Upload a dataset and get profiling, anomaly detection, correlation analysis and AI-written insights in seconds.
 
-`PyTorch` `Stable-Baselines3` `Gymnasium`
+`pandas` `Plotly` `Streamlit` `Groq`
 
-<a href="https://github.com/aekankpatel/stock_trading"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+<a href="https://huggingface.co/spaces/aekankpatel/insightforgeai"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+<a href="https://github.com/aekankpatel/insightforgeai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 ResumeAI
+**Resumes tailored to every job.** Builds one-page, ATS-friendly resumes matched to a job description, then lets you edit, save and download them as polished PDFs.
+
+`Next.js` `Prisma` `Groq` `Tailwind` `XeLaTeX`
+
+<a href="https://github.com/aekankpatel/resumeai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+### 🧭 Want to see more?
+Deep learning, reinforcement learning, A/B testing, healthcare analytics and more.
+
+<a href="https://github.com/aekankpatel?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories_→-0f2027?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>🔍 More projects</b></summary>
-<br/>
-
-| Project | What it does | Links |
-|---|---|---|
-| **InsightForge AI** | Upload a dataset, get profiling, anomaly detection, correlations and AI-written insights | [Demo](https://huggingface.co/spaces/aekankpatel/insightforgeai) · [Code](https://github.com/aekankpatel/insightforgeai) |
-| **ResumeAI** | Builds one-page, ATS-friendly resumes tailored to a job description | [Code](https://github.com/aekankpatel/resumeai) |
-| **Splitcheck** | A/B testing toolkit: sample sizes, frequentist and Bayesian analysis, always-valid tests, SRM checks | [Code](https://github.com/aekankpatel/splitcheck) |
-| **Patient No-Show Risk** | Predicts missed appointments across 110,000+ records with Random Forest and Tableau dashboards | [Dashboard](https://public.tableau.com/app/profile/aekank.patel/viz/noshow_dashboard/PatientNo-ShowRiskDashboard) · [Code](https://github.com/aekankpatel/patient_no-show_risk_dashboard) |
-| **Pneumonia Detection** | Chest X-ray classifier using a custom CNN, MobileNet transfer learning and an ensemble | [Code](https://github.com/aekankpatel/Pneumonia_Detection) |
-
-</details>
 
 <br/>
 
