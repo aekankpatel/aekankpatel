@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://aekankpatel.com"><img src="assets/typing.svg" alt="I build AI that ships, not just notebooks. Agentic AI, RAG, LLM Guardrails. From raw data to deployed product. Mechatronics roots, Data Science brain."/></a>
+<a href="https://aekankpatel.com"><img src="assets/typing.svg" alt="I build AI that ships, not just notebooks. Agentic AI, RAG, LLM Guardrails. From raw data to deployed product. Turning messy data into real decisions."/></a>
 
 <br/>
 
@@ -27,7 +27,6 @@
 aekank = {
     "builds":   ["agentic AI systems", "RAG pipelines", "LLM guardrails", "ML products end to end"],
     "studies":  "MS Data Science @ Stevens Institute of Technology",
-    "roots":    "Mechatronics Engineering -> sensors, systems, and now models",
     "focus":    "LLM systems that are reliable, explainable, and actually deployed",
     "next":     "a team that ships ML to real users",
 }
@@ -186,14 +185,6 @@ aekank = {
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aekankpatel&bg_color=0f2027&color=94A3B8&line=38BDF8&point=22C55E&area=true&area_color=38BDF8&title_color=38BDF8&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution graph"/>
 
 </div>
-
-<br/>
-
-## 🎯 Why talk to me?
-
-- 🧩 **I finish things.** Most of my projects are live. You can click them, not just read about them.
-- 🔒 **I care about AI you can trust.** Verification steps, guardrails, audit trails and cited sources show up all over my work.
-- 🔧 **I think in systems.** Mechatronics taught me how sensors, controllers and software fit together. I build ML the same way: data, model, API and UI as one piece.
 
 <br/>
 
