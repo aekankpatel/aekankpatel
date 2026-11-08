@@ -178,6 +178,19 @@ aekank = {
 
 <br/>
 
+## 📈 GitHub Pulse
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=aekankpatel&background=0f2027&border=2c5364&ring=38BDF8&fire=22C55E&currStreakNum=ffffff&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=94A3B8&dates=94A3B8&stroke=2c5364&hide_border=true&border_radius=10" alt="GitHub streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aekankpatel&layout=compact&langs_count=6&hide=html,css&bg_color=0f2027&title_color=38BDF8&text_color=ffffff&hide_border=true&border_radius=10" alt="Top languages"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aekankpatel&bg_color=0f2027&color=94A3B8&line=38BDF8&point=22C55E&area=true&area_color=38BDF8&title_color=38BDF8&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+
+</div>
+
+<br/>
+
 ## 🎯 Why talk to me?
 
 - 🧩 **I finish things.** Most of my projects are live. You can click them, not just read about them.
