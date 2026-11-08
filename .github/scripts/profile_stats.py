@@ -94,7 +94,9 @@ def language_scores():
 
 
 def languages_svg(scores, top=6):
-    ranked = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)[:top]
+    grand = sum(scores.values()) or 1
+    ranked = [kv for kv in sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+              if kv[1] / grand >= 0.01][:top]
     total = sum(v for _, v in ranked) or 1
     W, H = 380, 170
     bar_x, bar_y, bar_w = 25, 55, W - 50
