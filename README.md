@@ -156,7 +156,6 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
 </td></tr>
 <tr><td><b>🧪 Methods</b></td><td>
-<img src="https://img.shields.io/badge/EDA-1E293B?style=flat-square"/>
 <img src="https://img.shields.io/badge/ETL_Pipelines-1E293B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep_Learning-1E293B?style=flat-square"/>
 <img src="https://img.shields.io/badge/CNNs-1E293B?style=flat-square"/>
