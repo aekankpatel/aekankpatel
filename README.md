@@ -145,25 +145,43 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AG2-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
 </td></tr>
-<tr><td><b>🧠 ML / Deep Learning</b></td><td>
+<tr><td><b>🧠 ML / DL Frameworks</b></td><td>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stable--Baselines3-4B8BBE?style=flat-square"/>
+</td></tr>
+<tr><td><b>🧪 ML / DL Methods</b></td><td>
+<img src="https://img.shields.io/badge/Deep_Learning-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNNs-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gradient_Boosting-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Random_Forest-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ensemble_Models-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anomaly_Detection-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bayesian_Inference-1E293B?style=flat-square"/>
 </td></tr>
 <tr><td><b>📊 Data & Analytics</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </td></tr>
 <tr><td><b>⚙️ Apps & APIs</b></td><td>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
