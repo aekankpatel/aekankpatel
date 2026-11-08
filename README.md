@@ -43,7 +43,7 @@ aekank = {
 ### 🧮 Mathenza
 **A math solver that double-checks itself.** Agentic solver with step-by-step solutions, independent verification and error recovery using real computational tools.
 
-`LangGraph` `LLM Reasoning` `Python`
+`LangGraph` `LangChain` `LLM Reasoning` `Python`
 
 <a href="https://mathenza.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
 <a href="https://github.com/aekankpatel/Mathenza"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
@@ -67,7 +67,7 @@ aekank = {
 ### 📊 Queryra
 **An AI data analyst that checks its own work.** Agentic analytics platform that writes and runs SQL on its own, runs statistical analysis, verifies its evidence, and produces charts and reports.
 
-`LangGraph` `MCP` `LLMs` `SQL`
+`LangGraph` `LangChain` `MCP` `LLMs` `SQL`
 
 <a href="https://queryra.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
 <a href="https://github.com/aekankpatel/queryra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
