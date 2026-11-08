@@ -136,7 +136,7 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 ## 🛠️ My Toolbox
 
 <table>
-<tr><td><b>🤖 AI / LLM</b></td><td>
+<tr><td><b>🤖 AI / LLM & MLOps</b></td><td>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
@@ -145,6 +145,8 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </td></tr>
 <tr><td><b>🧠 ML / Deep Learning</b></td><td>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -173,15 +175,10 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </td></tr>
-<tr><td><b>☁️ Cloud & Tools</b></td><td>
+<tr><td><b>☁️ Cloud</b></td><td>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 </td></tr>
 </table>
 
