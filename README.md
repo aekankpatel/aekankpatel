@@ -43,7 +43,7 @@ aekank = {
 ### 🧮 Mathenza
 **A math solver that double-checks itself.** Agentic solver with step-by-step solutions, independent verification and error recovery using real computational tools.
 
-`LangGraph` `LangChain` `LLM Reasoning` `Python`
+`LangGraph` `LangChain` `LLM Reasoning` `Python` `Docker` `CI/CD`
 
 <a href="https://mathenza.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
 <a href="https://github.com/aekankpatel/Mathenza"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
@@ -67,7 +67,7 @@ aekank = {
 ### 📊 Queryra
 **An AI data analyst that checks its own work.** Agentic analytics platform that writes and runs SQL on its own, runs statistical analysis, verifies its evidence, and produces charts and reports.
 
-`LangGraph` `LangChain` `MCP` `LLMs` `SQL`
+`LangGraph` `LangChain` `MCP` `LLMs` `SQL` `Docker` `CI/CD`
 
 <a href="https://queryra.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square"/></a>
 <a href="https://github.com/aekankpatel/queryra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
@@ -177,6 +177,8 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
