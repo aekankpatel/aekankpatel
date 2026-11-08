@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://aekankpatel.com"><img src="assets/typing.svg" alt="I build AI that ships, not just notebooks. Agentic AI, RAG, LLM Guardrails. From raw data to deployed product. Turning messy data into real decisions."/></a>
+<a href="https://aekankpatel.com"><img src="assets/typing.svg" alt="I build AI that ships, not just notebooks. Agentic AI, RAG, LLM Guardrails. From raw data to deployed product. Turning messy data into useful insights."/></a>
 
 <br/>
 
