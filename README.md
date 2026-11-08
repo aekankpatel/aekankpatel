@@ -137,6 +137,7 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 
 <table>
 <tr><td><b>🤖 AI / LLM</b></td><td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/MCP-6B4FBB?style=flat-square"/>
@@ -161,6 +162,7 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </td></tr>
 <tr><td><b>⚙️ Apps & APIs</b></td><td>
