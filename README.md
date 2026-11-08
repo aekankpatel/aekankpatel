@@ -3,21 +3,19 @@
 
 <div align="center">
 
-<a href="https://aekankpatel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+AI+that+ships%2C+not+just+notebooks.;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+LLM+Guardrails;From+raw+data+to+deployed+product.;Mechatronics+roots.+Data+Science+brain." alt="Typing intro"/>
-</a>
+<a href="https://aekankpatel.com"><img src="assets/typing.svg" alt="I build AI that ships, not just notebooks. Agentic AI, RAG, LLM Guardrails. From raw data to deployed product. Mechatronics roots, Data Science brain."/></a>
 
 <br/>
 
-<a href="https://aekankpatel.com/assets/Aekank_Patel_Resume-DbaqX2yA.pdf"><img src="https://img.shields.io/badge/📄_Resume-Download-38BDF8?style=for-the-badge&labelColor=0f2027" alt="Resume"/></a>
-<a href="https://aekankpatel.com"><img src="https://img.shields.io/badge/🌐_Portfolio-aekankpatel.com-22C55E?style=for-the-badge&labelColor=0f2027" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/aekankpatel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" alt="LinkedIn"/></a>
-<a href="https://medium.com/@aekankpatel"><img src="https://img.shields.io/badge/Medium-Read-ffffff?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f2027" alt="Medium"/></a>
-<a href="mailto:aekankpatel@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027" alt="Email"/></a>
+<a href="https://aekankpatel.com/assets/Aekank_Patel_Resume-DbaqX2yA.pdf"><img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cGF0aCBkPSJNMTQgMnY2aDZNOCAxM2g4TTggMTdoOE04IDloMiIvPjwvc3ZnPg%3D%3D" alt="Resume"/></a>
+<a href="https://aekankpatel.com"><img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwTTEyIDJhMTUgMTUgMCAwIDAgMCAyMCIvPjwvc3ZnPg%3D%3D" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/aekankpatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
+<a href="https://medium.com/@aekankpatel"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:aekankpatel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/🟢_Open_to-Full--Time_Data_Science_%2F_ML_Engineering_Roles-22C55E?style=flat-square&labelColor=0f2027"/>
+<img src="assets/status.svg" alt="Available for full-time Data Science and ML Engineering roles"/>
 
 </div>
 
@@ -30,8 +28,8 @@ aekank = {
     "builds":   ["agentic AI systems", "RAG pipelines", "LLM guardrails", "ML products end to end"],
     "studies":  "MS Data Science @ Stevens Institute of Technology",
     "roots":    "Mechatronics Engineering -> sensors, systems, and now models",
-    "superpower": "turning a vague problem into a working, deployed demo",
-    "status":   "open to full-time DS / MLE roles",
+    "focus":    "LLM systems that are reliable, explainable, and actually deployed",
+    "next":     "a team that ships ML to real users",
 }
 ```
 
@@ -182,8 +180,8 @@ aekank = {
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=aekankpatel&background=0f2027&border=2c5364&ring=38BDF8&fire=22C55E&currStreakNum=ffffff&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=94A3B8&dates=94A3B8&stroke=2c5364&hide_border=true&border_radius=10" alt="GitHub streak"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aekankpatel&layout=compact&langs_count=6&hide=html,css&bg_color=0f2027&title_color=38BDF8&text_color=ffffff&hide_border=true&border_radius=10" alt="Top languages"/>
+<img width="55%" src="assets/streak.svg" alt="GitHub contribution streak"/>
+<img width="42%" src="assets/languages.svg" alt="Most used languages"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aekankpatel&bg_color=0f2027&color=94A3B8&line=38BDF8&point=22C55E&area=true&area_color=38BDF8&title_color=38BDF8&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution graph"/>
 
@@ -204,7 +202,7 @@ aekank = {
 ### 💬 Hiring for Data Science or ML? Let's talk.
 
 <a href="mailto:aekankpatel@gmail.com"><img src="https://img.shields.io/badge/aekankpatel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://aekankpatel.com/assets/Aekank_Patel_Resume-DbaqX2yA.pdf"><img src="https://img.shields.io/badge/Grab_my_resume-38BDF8?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://aekankpatel.com/assets/Aekank_Patel_Resume-DbaqX2yA.pdf"><img src="https://img.shields.io/badge/Grab_my_resume-0EA5E9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cGF0aCBkPSJNMTQgMnY2aDZNOCAxM2g4TTggMTdoOE04IDloMiIvPjwvc3ZnPg%3D%3D"/></a>
 
 </div>
 

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="170" viewBox="0 0 495 170">
+  <title>Contribution streak</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#2c5364"/>
+  </linearGradient></defs>
+  <style>
+    text { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+    .fade { opacity: 0; animation: fade .8s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="169" rx="12" fill="url(#bg)" stroke="#2c5364"/>
+  <text x="247.5" y="80" text-anchor="middle" fill="#38BDF8" font-size="17" font-weight="700">Contribution streak</text>
+  <text x="247.5" y="105" text-anchor="middle" fill="#94A3B8" font-size="12">Refreshing… updates automatically every day</text>
+</svg>

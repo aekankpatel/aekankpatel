@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="601" height="40" viewBox="0 0 601 40">
+  <title>Available for full-time Data Science and ML Engineering roles</title>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#2c5364"/></linearGradient></defs>
+  <rect x="1" y="1" width="599" height="38" rx="19.0" fill="url(#g)" stroke="#22C55E" stroke-opacity="0.7"/>
+  <circle cx="26" cy="20.0" r="6" fill="#22C55E" opacity="0.5">
+    <animate attributeName="r" values="6;13;6" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="26" cy="20.0" r="6" fill="#22C55E"/>
+  <text x="44" y="20.0" dominant-baseline="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="15" font-weight="600" fill="#ffffff">Available for full-time Data Science &amp; ML Engineering roles</text>
+</svg>
