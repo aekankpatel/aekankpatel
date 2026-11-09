@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="170" viewBox="0 0 495 170">
-  <title>471 contributions, 7 day current streak, 8 day longest streak</title>
+  <title>473 contributions, 8 day current streak, 8 day longest streak</title>
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#2c5364"/>
   </linearGradient></defs>
@@ -11,9 +11,9 @@
   <rect x="0.5" y="0.5" width="494" height="169" rx="12" fill="url(#bg)" stroke="#2c5364"/>
   <line x1="165" y1="32" x2="165" y2="138" stroke="#94A3B8" stroke-opacity="0.3"/>
   <line x1="330" y1="32" x2="330" y2="138" stroke="#94A3B8" stroke-opacity="0.3"/>
-  <g class="fade"><text x="82" y="80" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="700">471</text><text x="82" y="112" text-anchor="middle" fill="#38BDF8" font-size="14" font-weight="600">Total Contributions</text><text x="82" y="135" text-anchor="middle" fill="#94A3B8" font-size="11">Jun 25, 2024 – Present</text></g>
+  <g class="fade"><text x="82" y="80" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="700">473</text><text x="82" y="112" text-anchor="middle" fill="#38BDF8" font-size="14" font-weight="600">Total Contributions</text><text x="82" y="135" text-anchor="middle" fill="#94A3B8" font-size="11">Jun 25, 2024 – Present</text></g>
   <circle cx="247" cy="68" r="38" fill="none" stroke="#22C55E" stroke-width="5" stroke-dasharray="239" stroke-dashoffset="239" stroke-linecap="round" transform="rotate(-90 247 68)"><animate attributeName="stroke-dashoffset" from="239" to="0" dur="1.2s" fill="freeze"/></circle>
   <text x="247" y="35" text-anchor="middle" font-size="18">🔥</text>
-  <g class="fade" style="animation-delay:.3s"><text x="247" y="80" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="700">7</text><text x="247" y="128" text-anchor="middle" fill="#22C55E" font-size="14" font-weight="700">Current Streak</text><text x="247" y="148" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 2 – Nov 8, 2026</text></g>
+  <g class="fade" style="animation-delay:.3s"><text x="247" y="80" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="700">8</text><text x="247" y="128" text-anchor="middle" fill="#22C55E" font-size="14" font-weight="700">Current Streak</text><text x="247" y="148" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 2 – Nov 9, 2026</text></g>
   <g class="fade" style="animation-delay:.6s"><text x="413" y="80" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="700">8</text><text x="413" y="112" text-anchor="middle" fill="#38BDF8" font-size="14" font-weight="600">Longest Streak</text><text x="413" y="135" text-anchor="middle" fill="#94A3B8" font-size="11">Jun 18 – Jun 25, 2026</text></g>
 </svg>
