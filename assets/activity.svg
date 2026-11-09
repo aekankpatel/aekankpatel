@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <title>Contribution activity</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#2c5364"/>
+  </linearGradient></defs>
+  <style>
+    text { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+    .fade { opacity: 0; animation: fade .8s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="url(#bg)" stroke="#2c5364"/>
+  <text x="450" y="145" text-anchor="middle" fill="#38BDF8" font-size="18" font-weight="700">Contribution Activity</text>
+  <text x="450" y="170" text-anchor="middle" fill="#94A3B8" font-size="12">Refreshing… updates automatically every day</text>
+</svg>

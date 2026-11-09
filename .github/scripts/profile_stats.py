@@ -211,6 +211,49 @@ def streak_svg(total, first, current, cur_range, longest, longest_range, today):
     return card(W, H, "\n".join(parts), f"{total} contributions, {current} day current streak, {longest} day longest streak")
 
 
+# ----------------------------------------------------------------- activity
+def activity_svg(days, today, span=31):
+    W, H = 900, 300
+    left, right, top, bottom = 55, 25, 60, 50
+    pw, ph = W - left - right, H - top - bottom
+    dates = [today - dt.timedelta(days=span - 1 - i) for i in range(span)]
+    counts = [days.get(d, 0) for d in dates]
+    peak = max(counts) or 1
+    step = max(1, -(-peak // 4))          # 4 gridlines, whole numbers
+    ymax = step * 4
+
+    def xy(i, c):
+        return left + pw * i / (span - 1), top + ph * (1 - c / ymax)
+
+    pts = [xy(i, c) for i, c in enumerate(counts)]
+    line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+    area = f"{left},{top + ph} " + line + f" {left + pw},{top + ph}"
+    parts = [
+        '  <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1">'
+        f'<stop offset="0" stop-color="{ACCENT}" stop-opacity="0.45"/>'
+        f'<stop offset="1" stop-color="{ACCENT}" stop-opacity="0"/></linearGradient></defs>',
+        f'  <text x="{left}" y="36" fill="{ACCENT}" font-size="18" font-weight="700">Contribution Activity</text>',
+        f'  <text x="{W - right}" y="36" text-anchor="end" fill="{MUTED}" font-size="12">'
+        f'{sum(counts)} contributions in the last {span} days</text>',
+    ]
+    for k in range(5):
+        y = top + ph * (1 - k / 4)
+        parts.append(f'  <line x1="{left}" y1="{y:.1f}" x2="{left + pw}" y2="{y:.1f}" stroke="{MUTED}" stroke-opacity="0.15"/>'
+                     f'<text x="{left - 10}" y="{y + 4:.1f}" text-anchor="end" fill="{MUTED}" font-size="11">{step * k}</text>')
+    for i in range(0, span, 5):
+        x, _ = xy(i, 0)
+        parts.append(f'  <text x="{x:.1f}" y="{top + ph + 24}" text-anchor="middle" fill="{MUTED}" font-size="11">'
+                     f'{dates[i].strftime("%b %-d")}</text>')
+    parts.append(f'  <polygon class="fade" points="{area}" fill="url(#area)"/>')
+    parts.append(f'  <polyline points="{line}" fill="none" stroke="{ACCENT}" stroke-width="2.5" stroke-linejoin="round" '
+                 f'pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">'
+                 f'<animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.6s" fill="freeze"/></polyline>')
+    for i, (x, y) in enumerate(pts):
+        parts.append(f'  <circle class="fade" style="animation-delay:{0.6 + i * 0.03:.2f}s" cx="{x:.1f}" cy="{y:.1f}" r="3.5" '
+                     f'fill="{GREEN}"><title>{dates[i].strftime("%b %-d")}: {counts[i]}</title></circle>')
+    return card(W, H, "\n".join(parts), f"{sum(counts)} contributions in the last {span} days")
+
+
 def write(name, svg):
     os.makedirs(OUT, exist_ok=True)
     with open(os.path.join(OUT, name), "w", encoding="utf-8") as f:
@@ -227,7 +270,9 @@ def main():
         failed = True
     try:
         today = dt.datetime.now(dt.timezone.utc).date()
-        write("streak.svg", streak_svg(*streak_stats(contribution_days(), today), today))
+        days = contribution_days()
+        write("streak.svg", streak_svg(*streak_stats(days, today), today))
+        write("activity.svg", activity_svg(days, today))
     except Exception as exc:
         print(f"streak card failed: {exc}", file=sys.stderr)
         failed = True

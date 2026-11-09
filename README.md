@@ -211,7 +211,7 @@ Deep learning, reinforcement learning, A/B testing, healthcare analytics and mor
 <img width="55%" src="assets/streak.svg" alt="GitHub contribution streak"/>
 <img width="42%" src="assets/languages.svg" alt="Most used languages"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aekankpatel&bg_color=0f2027&color=94A3B8&line=38BDF8&point=22C55E&area=true&area_color=38BDF8&title_color=38BDF8&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+<img width="100%" src="assets/activity.svg" alt="Contribution activity over the last 31 days"/>
 
 </div>
 
