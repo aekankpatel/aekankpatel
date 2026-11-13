@@ -17,44 +17,44 @@
   <line x1="55" y1="155.0" x2="875" y2="155.0" stroke="#94A3B8" stroke-opacity="0.15"/><text x="45" y="159.0" text-anchor="end" fill="#94A3B8" font-size="11">22</text>
   <line x1="55" y1="107.5" x2="875" y2="107.5" stroke="#94A3B8" stroke-opacity="0.15"/><text x="45" y="111.5" text-anchor="end" fill="#94A3B8" font-size="11">33</text>
   <line x1="55" y1="60.0" x2="875" y2="60.0" stroke="#94A3B8" stroke-opacity="0.15"/><text x="45" y="64.0" text-anchor="end" fill="#94A3B8" font-size="11">44</text>
-  <text x="55.0" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 13</text>
-  <text x="191.7" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 18</text>
-  <text x="328.3" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 23</text>
-  <text x="465.0" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 28</text>
-  <text x="601.7" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 2</text>
-  <text x="738.3" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 7</text>
-  <text x="875.0" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 12</text>
-  <polygon class="fade" points="55,250 55.0,250.0 82.3,250.0 109.7,250.0 137.0,250.0 164.3,250.0 191.7,250.0 219.0,250.0 246.3,250.0 273.7,250.0 301.0,250.0 328.3,250.0 355.7,250.0 383.0,250.0 410.3,250.0 437.7,250.0 465.0,250.0 492.3,241.4 519.7,245.7 547.0,206.8 574.3,245.7 601.7,64.3 629.0,90.2 656.3,211.1 683.7,120.5 711.0,180.9 738.3,189.5 765.7,142.0 793.0,237.0 820.3,245.7 847.7,215.5 875.0,245.7 875,250" fill="url(#area)"/>
-  <polyline points="55.0,250.0 82.3,250.0 109.7,250.0 137.0,250.0 164.3,250.0 191.7,250.0 219.0,250.0 246.3,250.0 273.7,250.0 301.0,250.0 328.3,250.0 355.7,250.0 383.0,250.0 410.3,250.0 437.7,250.0 465.0,250.0 492.3,241.4 519.7,245.7 547.0,206.8 574.3,245.7 601.7,64.3 629.0,90.2 656.3,211.1 683.7,120.5 711.0,180.9 738.3,189.5 765.7,142.0 793.0,237.0 820.3,245.7 847.7,215.5 875.0,245.7" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.6s" fill="freeze"/></polyline>
-  <circle class="fade" style="animation-delay:0.60s" cx="55.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 13: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.63s" cx="82.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 14: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.66s" cx="109.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 15: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.69s" cx="137.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 16: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.72s" cx="164.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 17: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.75s" cx="191.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 18: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.78s" cx="219.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 19: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.81s" cx="246.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 20: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.84s" cx="273.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 21: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.87s" cx="301.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 22: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.90s" cx="328.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 23: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.93s" cx="355.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 24: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.96s" cx="383.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 25: 0</title></circle>
-  <circle class="fade" style="animation-delay:0.99s" cx="410.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 26: 0</title></circle>
-  <circle class="fade" style="animation-delay:1.02s" cx="437.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 27: 0</title></circle>
-  <circle class="fade" style="animation-delay:1.05s" cx="465.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 28: 0</title></circle>
-  <circle class="fade" style="animation-delay:1.08s" cx="492.3" cy="241.4" r="3.5" fill="#22C55E"><title>Oct 29: 2</title></circle>
-  <circle class="fade" style="animation-delay:1.11s" cx="519.7" cy="245.7" r="3.5" fill="#22C55E"><title>Oct 30: 1</title></circle>
-  <circle class="fade" style="animation-delay:1.14s" cx="547.0" cy="206.8" r="3.5" fill="#22C55E"><title>Oct 31: 10</title></circle>
-  <circle class="fade" style="animation-delay:1.17s" cx="574.3" cy="245.7" r="3.5" fill="#22C55E"><title>Nov 1: 1</title></circle>
-  <circle class="fade" style="animation-delay:1.20s" cx="601.7" cy="64.3" r="3.5" fill="#22C55E"><title>Nov 2: 43</title></circle>
-  <circle class="fade" style="animation-delay:1.23s" cx="629.0" cy="90.2" r="3.5" fill="#22C55E"><title>Nov 3: 37</title></circle>
-  <circle class="fade" style="animation-delay:1.26s" cx="656.3" cy="211.1" r="3.5" fill="#22C55E"><title>Nov 4: 9</title></circle>
-  <circle class="fade" style="animation-delay:1.29s" cx="683.7" cy="120.5" r="3.5" fill="#22C55E"><title>Nov 5: 30</title></circle>
-  <circle class="fade" style="animation-delay:1.32s" cx="711.0" cy="180.9" r="3.5" fill="#22C55E"><title>Nov 6: 16</title></circle>
-  <circle class="fade" style="animation-delay:1.35s" cx="738.3" cy="189.5" r="3.5" fill="#22C55E"><title>Nov 7: 14</title></circle>
-  <circle class="fade" style="animation-delay:1.38s" cx="765.7" cy="142.0" r="3.5" fill="#22C55E"><title>Nov 8: 25</title></circle>
-  <circle class="fade" style="animation-delay:1.41s" cx="793.0" cy="237.0" r="3.5" fill="#22C55E"><title>Nov 9: 3</title></circle>
-  <circle class="fade" style="animation-delay:1.44s" cx="820.3" cy="245.7" r="3.5" fill="#22C55E"><title>Nov 10: 1</title></circle>
-  <circle class="fade" style="animation-delay:1.47s" cx="847.7" cy="215.5" r="3.5" fill="#22C55E"><title>Nov 11: 8</title></circle>
-  <circle class="fade" style="animation-delay:1.50s" cx="875.0" cy="245.7" r="3.5" fill="#22C55E"><title>Nov 12: 1</title></circle>
+  <text x="55.0" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 14</text>
+  <text x="191.7" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 19</text>
+  <text x="328.3" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 24</text>
+  <text x="465.0" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Oct 29</text>
+  <text x="601.7" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 3</text>
+  <text x="738.3" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 8</text>
+  <text x="875.0" y="274" text-anchor="middle" fill="#94A3B8" font-size="11">Nov 13</text>
+  <polygon class="fade" points="55,250 55.0,250.0 82.3,250.0 109.7,250.0 137.0,250.0 164.3,250.0 191.7,250.0 219.0,250.0 246.3,250.0 273.7,250.0 301.0,250.0 328.3,250.0 355.7,250.0 383.0,250.0 410.3,250.0 437.7,250.0 465.0,241.4 492.3,245.7 519.7,206.8 547.0,245.7 574.3,64.3 601.7,90.2 629.0,211.1 656.3,120.5 683.7,180.9 711.0,189.5 738.3,142.0 765.7,237.0 793.0,245.7 820.3,215.5 847.7,245.7 875.0,250.0 875,250" fill="url(#area)"/>
+  <polyline points="55.0,250.0 82.3,250.0 109.7,250.0 137.0,250.0 164.3,250.0 191.7,250.0 219.0,250.0 246.3,250.0 273.7,250.0 301.0,250.0 328.3,250.0 355.7,250.0 383.0,250.0 410.3,250.0 437.7,250.0 465.0,241.4 492.3,245.7 519.7,206.8 547.0,245.7 574.3,64.3 601.7,90.2 629.0,211.1 656.3,120.5 683.7,180.9 711.0,189.5 738.3,142.0 765.7,237.0 793.0,245.7 820.3,215.5 847.7,245.7 875.0,250.0" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.6s" fill="freeze"/></polyline>
+  <circle class="fade" style="animation-delay:0.60s" cx="55.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 14: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.63s" cx="82.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 15: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.66s" cx="109.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 16: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.69s" cx="137.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 17: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.72s" cx="164.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 18: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.75s" cx="191.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 19: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.78s" cx="219.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 20: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.81s" cx="246.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 21: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.84s" cx="273.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 22: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.87s" cx="301.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 23: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.90s" cx="328.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 24: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.93s" cx="355.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 25: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.96s" cx="383.0" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 26: 0</title></circle>
+  <circle class="fade" style="animation-delay:0.99s" cx="410.3" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 27: 0</title></circle>
+  <circle class="fade" style="animation-delay:1.02s" cx="437.7" cy="250.0" r="3.5" fill="#22C55E"><title>Oct 28: 0</title></circle>
+  <circle class="fade" style="animation-delay:1.05s" cx="465.0" cy="241.4" r="3.5" fill="#22C55E"><title>Oct 29: 2</title></circle>
+  <circle class="fade" style="animation-delay:1.08s" cx="492.3" cy="245.7" r="3.5" fill="#22C55E"><title>Oct 30: 1</title></circle>
+  <circle class="fade" style="animation-delay:1.11s" cx="519.7" cy="206.8" r="3.5" fill="#22C55E"><title>Oct 31: 10</title></circle>
+  <circle class="fade" style="animation-delay:1.14s" cx="547.0" cy="245.7" r="3.5" fill="#22C55E"><title>Nov 1: 1</title></circle>
+  <circle class="fade" style="animation-delay:1.17s" cx="574.3" cy="64.3" r="3.5" fill="#22C55E"><title>Nov 2: 43</title></circle>
+  <circle class="fade" style="animation-delay:1.20s" cx="601.7" cy="90.2" r="3.5" fill="#22C55E"><title>Nov 3: 37</title></circle>
+  <circle class="fade" style="animation-delay:1.23s" cx="629.0" cy="211.1" r="3.5" fill="#22C55E"><title>Nov 4: 9</title></circle>
+  <circle class="fade" style="animation-delay:1.26s" cx="656.3" cy="120.5" r="3.5" fill="#22C55E"><title>Nov 5: 30</title></circle>
+  <circle class="fade" style="animation-delay:1.29s" cx="683.7" cy="180.9" r="3.5" fill="#22C55E"><title>Nov 6: 16</title></circle>
+  <circle class="fade" style="animation-delay:1.32s" cx="711.0" cy="189.5" r="3.5" fill="#22C55E"><title>Nov 7: 14</title></circle>
+  <circle class="fade" style="animation-delay:1.35s" cx="738.3" cy="142.0" r="3.5" fill="#22C55E"><title>Nov 8: 25</title></circle>
+  <circle class="fade" style="animation-delay:1.38s" cx="765.7" cy="237.0" r="3.5" fill="#22C55E"><title>Nov 9: 3</title></circle>
+  <circle class="fade" style="animation-delay:1.41s" cx="793.0" cy="245.7" r="3.5" fill="#22C55E"><title>Nov 10: 1</title></circle>
+  <circle class="fade" style="animation-delay:1.44s" cx="820.3" cy="215.5" r="3.5" fill="#22C55E"><title>Nov 11: 8</title></circle>
+  <circle class="fade" style="animation-delay:1.47s" cx="847.7" cy="245.7" r="3.5" fill="#22C55E"><title>Nov 12: 1</title></circle>
+  <circle class="fade" style="animation-delay:1.50s" cx="875.0" cy="250.0" r="3.5" fill="#22C55E"><title>Nov 13: 0</title></circle>
 </svg>
